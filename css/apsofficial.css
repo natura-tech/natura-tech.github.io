@@ -915,13 +915,16 @@ li.li_list{
     background-color: #C5DAE8;
     border: 2px solid #fff;
     box-shadow: 0 0 0 2px #C5DAE8;
-    color: #0B466E;
     margin: 15px 0;
     padding: 15px 15px;
 }
 
 .blue_box > p{
-		text-indent: 0;
+	text-indent: 0;
+}
+
+.blue_box b{
+	color: #0B466E;
 }
 
 /*#caf3ce*/
