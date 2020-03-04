@@ -556,7 +556,7 @@ h2{
   position: relative;
   padding-bottom: .1em;
   border-bottom: 3px solid #ccc;
-  font-size: 21px;
+  font-size: 20px;
   margin:40px 0 10px;
 }
 	.h1_green{
@@ -800,7 +800,7 @@ h2{
 h3{
 	position: relative;
 	padding: 0.96em 1em .25em 1.5em;
-	font-size: 18px;
+	font-size: 17px;
 /*  border: 1px solid #ccc;
   border-top: 3px solid #3498db;
   background: -webkit-linear-gradient(top, #fff 0%, #f0f0f0 100%);
