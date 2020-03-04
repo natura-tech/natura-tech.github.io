@@ -304,7 +304,7 @@
     right: -300px; /*メニュー横幅 width と合わせる*/
     top: 0;
     transition: transform 0.3s linear 0s; /*0.3s はアニメーションにかかる時間*/
-    width: 300px; /*メニュー横幅*/
+    width: 80%; /*メニュー横幅*/
     z-index: 1000;
 }
 
