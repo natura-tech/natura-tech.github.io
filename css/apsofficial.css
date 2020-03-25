@@ -301,7 +301,7 @@
     height: 100%;
     padding: 10px 10px; /*メニュー内左右上下余白*/
     position: fixed;
-    right: -300px; /*メニュー横幅 width と合わせる*/
+    right: -80%; /*メニュー横幅 width と合わせる*/
     top: 0;
     transition: transform 0.3s linear 0s; /*0.3s はアニメーションにかかる時間*/
     width: 80%; /*メニュー横幅*/
@@ -505,7 +505,8 @@
 	}
 
 	.h1_intro img{
-		width: 210px;
+		width: 70%;
+		max-width: 250px;
 	}
 }
 
