@@ -499,6 +499,14 @@
 		text-decoration:none;
 		line-height: 40px;
 	}
+
+	.h1_intro{
+		text-align: center;
+	}
+
+	.h1_intro img{
+		width: 210px;
+	}
 }
 
 
