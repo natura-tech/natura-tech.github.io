@@ -172,7 +172,9 @@
 
 
 	.cafe-1-img{
-		width:100%;
+		width: calc(97% - 40px);
+    	margin: 20px auto 5px;
+    	display: block;
 		}
 
 
@@ -498,6 +500,15 @@
 		width: 100%;
 		text-decoration:none;
 		line-height: 40px;
+	}
+
+	.h1_intro{
+		text-align: center;
+	}
+
+	.h1_intro img{
+		width: 220px;
+		/*max-width: 250px;*/
 	}
 }
 
