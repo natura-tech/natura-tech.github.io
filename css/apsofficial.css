@@ -172,7 +172,7 @@
 
 
 	.cafe-1-img{
-		width: calc(97% - 40px);
+		width: calc(92% - 40px);
     	margin: 20px auto 5px;
     	display: block;
 		}
@@ -277,6 +277,13 @@
 	#menu-icon{
 		display: none;
 	}
+
+	main{
+			width: 90%;
+			margin: 0 auto;
+			background-color: #fafafa;
+		}
+
 }
 
 
@@ -494,6 +501,11 @@
 		font-weight: bold;
 	}
 
+	main{
+			width: 95%;
+			margin: 0 auto;
+			background-color: #fafafa;
+		}
 
 	li a{
 		display: block;
@@ -980,12 +992,6 @@ body{
 	body{
 		background-color: #fafafa;
 	}
-
-	main{
-			width: 95%;
-			margin: 0 auto;
-			background-color: #fafafa;
-		}
 
 	.section1{
 		padding: 10px 10px 25px 10px;
