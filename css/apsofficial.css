@@ -1013,13 +1013,14 @@ body{
   padding: 0.2em 0.35em 0.2em;/*文字周りの余白*/
   color: white;
   border-radius: 0.7em;/*角の丸み*/
-  font-size: 13px;
+  font-size: 14px;
 }
 
 .koushin {
   color: #1D557A;
   margin-top: 10px;
   margin-bottom: 0;
+  vertical-align: middle;
 }
 
 
