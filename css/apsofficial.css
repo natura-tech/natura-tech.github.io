@@ -867,7 +867,7 @@ h3.h3_green::after {
 }
 h3.h3_pink::after {
   position: absolute;
-  top: 1.3em;
+  top: 1.25em;
   left: .2em;
   z-index: 2;
   content: '';
@@ -899,10 +899,10 @@ a.p{
 	margin-left: 15px
 }
 
-p > span{
+/*p > span{
 	font-weight: bold;
 	color: #2255ee;
-}
+}*/
 
 .red{
 	color: #ee2222;
@@ -1006,6 +1006,24 @@ body{
 	}
 
 }
+
+
+.koushin > span {
+  background: #3498db; /*背景色*/
+  padding: 0.15em 0.3em 0.15em;/*文字周りの余白*/
+  color: white;
+  border-radius: 0.7em;/*角の丸み*/
+  font-size: 13px;
+}
+
+.koushin {
+  color: #1D557A;
+  margin-top: 10px;
+  margin-bottom: 0;
+}
+
+
+
 
 .ml15{
 	margin-left: 15px !important;
