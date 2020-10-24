@@ -837,7 +837,7 @@ h3{
 }
 h3.h3_lightblue::after {
   position: absolute;
-  top: 1.3em;
+  top: 1.25em;
   left: .2em;
   z-index: 2;
   content: '';
@@ -852,7 +852,7 @@ h3.h3_lightblue::after {
 }
 h3.h3_green::after {
   position: absolute;
-  top: 1.3em;
+  top: 1.25em;
   left: .2em;
   z-index: 2;
   content: '';
